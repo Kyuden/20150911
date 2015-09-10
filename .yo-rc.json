@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Reveal.js slide dev with Yeoman",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "Kyuden",
+    "githubRepository": "20150911"
+  }
+}
